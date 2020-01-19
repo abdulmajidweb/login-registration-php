@@ -1,0 +1,12 @@
+header{
+	background-color: #283E4A;
+}
+.section{
+	background-image: url("../images/bg.jpg");
+	overflow: hidden;
+}
+.user_nav ul li:hover{
+	background: #3B5998;
+	border-radius: 4px;
+	transition: all ease 0.5s;
+}
